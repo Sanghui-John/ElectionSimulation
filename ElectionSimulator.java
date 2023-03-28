@@ -1,9 +1,3 @@
-// Sanghui John Kim
-// 01/31/2023
-// CSE 121 Section AE
-// TA: Justin Ung
-//
-// Programming Assignment 1
 // Election Simulator
 
 // This class is an output program of Election Simulator.
@@ -18,7 +12,6 @@
 //      1. Intro : line34 ; calls the method "intro"
 //      2. Body(simulation) : line36 ~ line81
 //      3. Outro(summary) : line84 ; calls the method "sumamry"
-// Overall this program is followed by Assignment Specification rules.
 
 import java.util.*;
 
